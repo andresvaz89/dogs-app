@@ -1,7 +1,7 @@
 import './App.css';
-import NavigationBar from './components/NavigationBar';
-import MainSection from './components/MainSection';
-import Footer from './components/Footer';
+import NavigationBar from './components/NavigationBar/NavigationBar.jsx';
+import MainSection from './components/MainSection/MainSection.jsx';
+import Footer from './components/Footer/Footer.jsx';
 
 function App() {
   return (
